@@ -15,4 +15,3 @@ ivysaur
 venasaur
 wartortle
 blastoise
->>>>>>> origin/merge-exercise
